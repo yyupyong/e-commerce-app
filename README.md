@@ -50,4 +50,4 @@ git checkout <branch-name>
 11. Useful Widgets for Responsive Design
 12. App Localization
 
-### [LICENSE: MIT](LICENSE.md)
+### [LICENSE: MIT](LICENSE.md)# flutter-e-commerce-app
